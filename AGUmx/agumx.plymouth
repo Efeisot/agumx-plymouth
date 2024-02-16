@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=AGUmx
+Description=AGUmx Mxlinux Respin Plymouth Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/AGUmx/output
+ScriptFile=/usr/share/plymouth/themes/AGUmx/animated-boot.script
